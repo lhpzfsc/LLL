@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>03_t_crack8.jpg</filename>
+	<path>G:\test\PFENet-test2\VOC2007\mvtec\JPEGImages\03_t_crack8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>t_crack</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>1</ymin>
+			<xmax>499</xmax>
+			<ymax>838</ymax>
+		</bndbox>
+	</object>
+</annotation>
